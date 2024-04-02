@@ -7,32 +7,62 @@
  
 .container{
     max-width: 1400px;
-    height: 50px;
-    background-color: blue;
+    background-color: white;
+    margin-top: 15px;
 }
 
 .row{
     display: flex;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 
 .logo{
     vertical-align: middle;
+  
 
 }
 
 .menù{
     display: inline-block;
     vertical-align: middle;
+    padding: 10px;
+
+}
+.menù-rt{
+    display: inline-block;
+    vertical-align: middle;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+
+}
+
+
+ul{list-style: none;
+    display: flex;
+}
+
+li{
+    text-decoration: none;
+    padding: 0px 22px;
 }
 
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .col-50{
     width: 50%;
-    border: 1px solid black;
-    height: 50px;
+}
+
+
+.btn{
+    background-color:blue;
+    width: 50px;
+    padding: 5px 10px;
+    color: white;
+
 }
