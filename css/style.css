@@ -54,15 +54,13 @@ a{
 
 .col-33{
     width: calc(100% / 3);
-    background-color: gold;
-    border: 1px solid black;
+    
 
 }
 
 .col-40{
     width: 40%;
-    background-color: gold;
-    border: 1px solid black;
+    
 
 }
 
@@ -72,16 +70,14 @@ a{
 
 .col-60{
     width: 60%;
-    background-color: gold;
-    border: 1px solid black;
+   
 
 
 }
 
 .col-100{
     width: 100%;
-    background-color: gold;
-    border: 1px solid black;
+    
 
     
 }
@@ -179,6 +175,12 @@ label{
    display: block;
 }
 
+.bg-gold{
+    background-color: gold;
+}
 
+.border{
+    border: 1px solid black;
+}
 
 
