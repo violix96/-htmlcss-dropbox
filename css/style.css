@@ -139,6 +139,10 @@ h2{
     margin-top: 50px;
 }
 
+.margin-x-10{
+    margin-right: 10px;
+}
+
 .arrow{
     font-size: 50px;
     height: 80px;
@@ -175,11 +179,6 @@ label{
    display: block;
 }
 
-rt{
-    margin-right: 20px;
-}
 
 
-.margin-right{
-    margin-right: 10px;
-}
+
