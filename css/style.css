@@ -273,6 +273,9 @@ h1{
 .py-40{
     padding: 40px 0;
 }
+.py-80{
+    padding: 80px 0;
+}
 
 .py-30{
     padding: 30px 0;
@@ -327,4 +330,19 @@ h5{
     padding-left: 78px;
 }
 
+.border-ask{
+    border-top: none;
+    border-bottom: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
 
+
+.border-ask-q1{
+    border-top: 1px solid black;;
+
+}
+
+.fan-arrow-down{
+    padding: 0 158px;
+}
