@@ -36,7 +36,14 @@ body{
 
 ul{
     list-style: none;
+}
+
+.ul-header{
+    list-style: none;
     display: flex;
+}
+.footer-link li a {
+    color: white;
 }
 
 li{
@@ -211,6 +218,9 @@ h2{
 .d-flex{
     display: flex;
 }
+.flex-direction{
+    flex-direction: column;
+}
 
 .f-wrap{
     flex-wrap: wrap;
@@ -345,4 +355,15 @@ h5{
 
 .fan-arrow-down{
     padding: 0 158px;
+}
+
+.c-white{
+    color: white;
+}
+
+.hr-footer{
+    color: white;
+    width: 80px;
+    margin-left: 5px;
+  margin-bottom: 30px;
 }
