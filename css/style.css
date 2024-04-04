@@ -104,6 +104,16 @@ a{
     color: white;
 
 }
+.btn-white{
+    background-color: white;
+    color: black;
+
+}
+
+.text-right{
+    text-align: right;
+}
+
 .btn-trasparent{
     background-color:transparent;
     color: black;
@@ -123,6 +133,9 @@ a{
 
 .min-height-759{
    min-height: 759px;
+}
+.min-height-300{
+   min-height: 300px;
 }
 .min-height-133{
    min-height: 133px;
@@ -365,5 +378,5 @@ h5{
     color: white;
     width: 80px;
     margin-left: 5px;
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
