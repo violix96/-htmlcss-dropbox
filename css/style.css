@@ -97,6 +97,13 @@ a{
     color: white;
 
 }
+.btn-trasparent{
+    background-color:transparent;
+    color: black;
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+}
 
 .bg-lightblue{
     background-color: lightblue;
